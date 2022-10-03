@@ -2,6 +2,8 @@
 
 Este es un proyecto que fue presentado en la materia Programación Orientada a Objetos. Se trata de un programa para control de stock y ventas, entre otras funciones.
 
+ ![Software de Gestión](https://i.imgur.com/vSZq8fw.png)
+
 
 ### Prerrequisitos
 
